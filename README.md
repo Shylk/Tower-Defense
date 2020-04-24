@@ -16,7 +16,7 @@ Second graphical school project where the rules are as follows :
 ## Demonstration
 :arrow_right: Executing the program leads you to the menu screen
   
-[![menu.png](https://i.postimg.cc/85VtfCsJ/menu.png)](https://postimg.cc/xktKWnvn)
+[![menu.png](https://imgur.com/D1vQC9x.png)](https://imgur.com/D1vQC9x.png)
 
 ## Additional features (Bonus)
  
