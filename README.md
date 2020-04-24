@@ -15,8 +15,21 @@ Second graphical school project where the rules are as follows :
 
 ## Demonstration
 :arrow_right: Executing the program leads you to the menu screen
+ * Settings, and how to play windows can be opened with the buttons on the top left. Then you can get to the level selection with the play button.
   
 [![menu.png](https://imgur.com/D1vQC9x.png)](https://imgur.com/D1vQC9x.png)
+
+:arrow_right: Then you can select between the 3 different levels and also 3 different difficulties by clicking on them.
+
+[![level.png](https://imgur.com/fi7dLvd.png)](https://imgur.com/fi7dLvd.png)
+
+:arrow_right: Once you are in-game, it looks like this :
+ * You may buy one tower on clicking on them on the right panel.
+ * You may select other tower to buy by scrolling down or up on the right panel.
+ * You may select 1 of the 3 spells to be cast : Fireball (damage dealing), freeze (block and then low damages), break defense (damage doubles from all sources).
+ * You may upgrade your tower by clicking on the spot if you have enough gold.
+
+[![game.png](https://imgur.com/6ojdzIy.png)](https://imgur.com/6ojdzIy.png)
 
 ## Additional features (Bonus)
  
